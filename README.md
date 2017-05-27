@@ -8,3 +8,6 @@ Browser support `IE7+`.
 Because of Browser Support can not use: 
 - `viewport width` for an adaptive circle size
 - `transform: translate(...)` for centering the circle
+
+### Demo
+https://korosteleva.github.io/japanese-flag/
